@@ -1,46 +1,80 @@
-# 📅 Tasks App (To-Do List)
+# ToDoPro
+ToDoPro is a web-based to-do list application built with React JS, Tailwind CSS, and TypeScript. It allows users to create, manage, and organize their tasks efficiently.
 
-Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind CSS, TypeScript, Redux Toolkit e mais.
+## Demo
+👇👇👇<br/>
+You can access the live demo of ToDoPro at [https://to-do-pro.vercel.app/](https://to-do-pro.vercel.app/).
+👆👆👆
 
-![página inicial](https://github.com/aridsm/tasks-app/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
+## Screenshots
+To-do list website made with React JS, Tailwind CSS, TypeScript and more.
+![page](https://github.com/yoseflakew25/ToDoPro/blob/main/screenshots/1.png)
 
-## Descrição
+![Add New](https://github.com/yoseflakew25/ToDoPro/blob/main/screenshots/2.png)
 
-- Aplicado de organizar suas tarefas com os seguintes dados: título, descrição, data, marcar como completo e marcar como importante. 
-- As tarefas são organizadas em rotas: tarefas de hoje, tarefas importantes, incompletas, completas, todas as tarefas e tarefas por diretório (pasta). Os diretórios e as tarefas podem ser editados ou excluídos. Além disso, há um diretório principal chamado "Main" que não pode ser editado ou excluído.
-- A lista de tarefas pode ser exibida primeiro em: mais próximas, mais distantes, completas ou incompletas.
-- Você pode pesquisar por alguma tarefas no campo de pesquisa.
-- As tarefas de hoje são mostradas na seção do usuário e nas notificações.
-- Os dados de tarefas, diretórios e darkmode são salvos no localStorage.
+![GameCenter](https://github.com/yoseflakew25/ToDoPro/blob/main/screenshots/3.png)
 
-## Objetivo
+Light mode:
+![LightMod](https://github.com/yoseflakew25/ToDoPro/blob/main/screenshots/4.png)
 
-O projeto teve principalmente como objetivo pôr em prática conhecimentos de TypeScript, Tailwind, Redux Toolkit e React Js.
 
-## Ferramentas utilizadas
 
+## Features 
+- Responsive design for optimal usage on various devices.
+- Filter tasks by status (all, active, completed).
+- Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
+- Tasks are organized into routes: today's tasks, important tasks, incomplete, complete, all tasks and tasks by directory (folder). Directories and tasks can be edited or deleted. In addition, there is a main directory called "Main" which cannot be edited or deleted.
+- The list of tasks can be displayed first in: nearest, farthest, complete or incomplete.
+- You can search for any tasks in the search field.
+- Today's tasks are shown in the user section and in notifications.
+- Tasks, directories and DarkMode data are saved to localStorage.
+
+## Goal
+The main goal of this project is to put into practice knowledge of TypeScript, Tailwind CSS, and React JS. By building a to-do list application, it aims to showcase various features and functionalities that can be implemented using these technologies.
+
+## Tools used
 - React JS
 - TypeScript
 - Tailwind CSS
-- Redux Toolkit
 - React Router DOM
 - HTML
-- Figma (prototipagem)
+- Api
+- Weather
+- Game
+- Figma
 
-## Como testar
 
-Você pode acessar o projeto aqui: https://tasks-app-aridsm.netlify.app/
 
-Ou rodar na sua máquina: 
+## How to Run
 
-``` 
-git clone https://github.com/aridsm/tasks-app.git
-cd tasks-app
+if Need run on your machine:
+
+Clone project
+```
+git clone https://github.com/yoseflakew25/ToDoPro.git
+```
+go to project
+```
+cd ToDo-main
+```
+install npm
+```
 npm install
+```
+start project
+```
 npm start
 ```
+## Contributing
 
-## Observações
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-- Os dados de tarefas, diretórios e darkmode ficam salvos no localStorage do seu navegador. Você pode clicar no botão "delete all data" para removê-los do localStorage.
-- Para fins demonstrativos, o aplicativo possui uma lista padrão de 3 tarefas e 1 diretório chamado "Main".
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Acknowledgements
+
+- The project uses various open-source libraries and frameworks, including React JS, Tailwind CSS, and TypeScript.
+ 
+
