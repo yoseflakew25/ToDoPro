@@ -1,5 +1,5 @@
 # ToDoPro
-ToDoPro is a web-based to-do list application built with React JS, Tailwind CSS, and TypeScript. It allows users to create, manage, and organize their tasks efficiently.
+ToDoPro is an online task management application designed to assist users in effectively handling their daily workload. Developed using React JS, Tailwind CSS, and TypeScript, it offers a wide range of useful features. Users can easily create, manage, and organize tasks, enabling them to optimize their productivity.
 
 ![page](https://github.com/yoseflakew25/ToDoPro/blob/main/Neon%20Retro%20Stars%20Marketing%20Mockup%20Website%20Instagram%20Post.png)
 
